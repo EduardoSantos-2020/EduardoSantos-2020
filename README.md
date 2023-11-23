@@ -1,25 +1,22 @@
 
 
-### Olá sou Eduardo  🙂 👋
+# Olá sou Eduardo  🙂 👋
 
-[![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/EduardoSantos2020)
+[![linked](https://icongr.am/devicon/linkedin-original.svg?size=43&color=b000f0)](www.linkedin.com/in/EduardoSantos2020)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSantos-2020&show_icons=true&theme=dark)
 
 ## Minhas Tecnologias de Aprendizado
-<br>
-<div style='diplay:inline-block'>
-<img align='center' alt=Html src="https://icongr.am/devicon/html5-original.svg?s?size=60&color=currentColor"/>
-
-<img align='center' alt=Css src="https://icongr.am/devicon/css3-original-wordmark.svg??size=60&color=currentColor"/>
-
-<img align='center' alt=Javascript src="https://icongr.am/devicon/javascript-original.svg??size=60&color=currentColor"/>
-
-<img align='center' alt=React-js src="https://icongr.am/devicon/react-original-wordmark.svg??size=60&color=currentColor"/>
-
-<img align='center' alt=Python src="https://icongr.am/devicon/python-original.svg??size=60&color=currentColor"/>
-<br><br>
-<img align='center' alt=Linux src="https://icongr.am/devicon/linux-original.svg??size=60&color=currentColor"/>
+<div style='display:inline-block'>
+    <img align='center' style="margin: 5px" alt=Html src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=Css src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=Bootstrap src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=b000f0"/>
+    <img align='center' style="margin: 5px" alt=Javascript src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=React-js src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=Python src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=Mysgl src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor"/>
+    <img align='center' style="margin: 5px" alt=Linux src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor"/>
 </div>
-</br>
-#### Estudando e colocando em Praticas meus conhecimentos
+<br></br>
+
+> * **Estudando e colocando em Praticas meus conhecimentos** 
