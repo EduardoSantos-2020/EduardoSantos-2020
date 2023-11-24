@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSantos-2020&show_icons=true&theme=dark)
 
-## Tecnologias de Aprendizagem
+## Tecnologias escolhidas para estudo 
 <div style='display:inline-block '>
     <img align='center' vspace="8" hspace="8" alt=Html src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
     <img align='center' vspace="8" hspace="8" alt=Css src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
