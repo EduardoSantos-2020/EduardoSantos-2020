@@ -2,7 +2,7 @@
 
 # Olá sou Eduardo  🙂 👋
 
-[![linked](https://icongr.am/devicon/linkedin-original.svg?size=43&color=b000f0)](www.linkedin.com/in/EduardoSantos2020)]
+![linked](https://icongr.am/devicon/linkedin-original.svg?size=43&color=b000f0)](www.linkedin.com/in/EduardoSantos2020)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSantos-2020&show_icons=true&theme=dark)
 
