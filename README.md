@@ -21,7 +21,7 @@
 </div>
 <br></br>
 
-* >** Estudando fundamentos da linguagem  ** 
-* >** Me aprimorando em lógica de Programação  **
-* >** Replicando as aulas em prática  **
-* >** Buscando novos meio de otimizar meu tempo desenvolvendo uma solução **
+* > Estudando fundamentos da linguagem
+* > Me aprimorando em lógica de Programação
+* > Replicando as aulas em prática
+* > Buscando novos meio de otimizar meu tempo desenvolvendo uma solução 
