@@ -10,7 +10,7 @@
 
 ## Tecnologias na qual estou atuando e estudando.
 <div style='display:inline-block '>
-    <img align='center' vspace="1" hspace="1" alt=Html src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
+    <img align='center' alt=Html src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
     <img align='center' vspace="4" hspace="4" alt=Css src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
     <img align='center' vspace="8" hspace="8" alt=Bootstrap src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=b000f0"/>
     <img align='center' vspace="8" hspace="8" alt=Javascript src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
