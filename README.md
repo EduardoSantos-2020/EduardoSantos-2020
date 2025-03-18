@@ -1,6 +1,6 @@
 
 
-# Olá sou Eduardo  🙂 👋
+# Olá tudo bem 🙂 👋
 
 [![Linked](https://icongr.am/devicon/linkedin-original.svg?size=43&color=b000f0)](https://linkedin.com/in/EduardoSantos2020)
 
