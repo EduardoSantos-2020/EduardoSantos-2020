@@ -2,7 +2,7 @@
 
 # Olá tudo bem 🙂 👋
 
-> Eu sou uma pessoa amante da tecnologia. Gosto bastante de desafio e descoberta para ter engajamento na minha carreira, e cada dia me torna uma proficional melhor.
+Eu sou uma pessoa amante da tecnologia. Gosto bastante de desafio e descoberta para ter engajamento na minha carreira, e cada dia me torna uma proficional melhor.
 
 ## Rede Profissional LinkedIn 
 
