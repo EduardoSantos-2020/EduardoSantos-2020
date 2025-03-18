@@ -2,11 +2,13 @@
 
 # Olá tudo bem 🙂 👋
 
+##Rede Sociais.
+
 [![Linked](https://icongr.am/devicon/linkedin-original.svg?size=43&color=b000f0)](https://linkedin.com/in/EduardoSantos2020)
 
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSantos-2020&show_icons=true&theme=dark)!-->
 
-## Tecnologias escolhidas para estudos e prática  
+## Tecnologias na qual estou atuando e estudando.
 <div style='display:inline-block '>
     <img align='center' vspace="8" hspace="8" alt=Html src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
     <img align='center' vspace="8" hspace="8" alt=Css src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
